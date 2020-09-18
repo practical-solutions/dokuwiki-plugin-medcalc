@@ -30,3 +30,9 @@ Formel zur Berechnung der KOF
 Quelle: Formel nach DuBois, Arch Intern Med 1916; 17: 863 [Labor Limbach](https://www.limbachgruppe.com/laborrechner/labor-rechner/berechnung-koerperoberflaeche-body-mass-index/)
 
 Formel zur Berechnung der Paclitaxeldosis//Anhand der Calvert-Formel, Quelle: [medscape](https://reference.medscape.com/calculator/carboplatin-auc-dose-calvert)
+
+## Kompatibilität
+
+Getestet mit
+* PHP **7.3**
+* DokuWiki / **Hogfather**
